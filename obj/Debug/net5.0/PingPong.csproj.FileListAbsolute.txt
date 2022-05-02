@@ -1,0 +1,16 @@
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.csproj.AssemblyReference.cache
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.AssemblyInfoInputs.cache
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.AssemblyInfo.cs
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.csproj.CoreCompileInputs.cache
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.exe
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.deps.json
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.runtimeconfig.json
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.runtimeconfig.dev.json
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.dll
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\ref\PingPong.dll
+C:\Users\willi\Documents\Epicodus\ping-pong\bin\Debug\net5.0\PingPong.pdb
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.dll
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\ref\PingPong.dll
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.pdb
+C:\Users\willi\Documents\Epicodus\ping-pong\obj\Debug\net5.0\PingPong.genruntimeconfig.cache
